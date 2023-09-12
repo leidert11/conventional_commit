@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(216, 216, 216, 0.397);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+}
